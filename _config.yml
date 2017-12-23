@@ -1,6 +1,6 @@
 
-title: Juhyun Lim
-url: 'http://maden.kr'
+title: Howoong Jun
+url: 'http://howoongjun.github.io'
 baseurl: '/' #change it according to your repository name
 
 
@@ -13,17 +13,16 @@ baseurl: '/' #change it according to your repository name
 
 
 #Profile information
-name: Juhyun Lim
-tagline: Full Stack Developer
+name: Howoong Jun
+tagline: Master Candidate of RISL
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: 2.jh.lim@gmail.com
-phone: +82 10 8625 0709
-website: blog.maden.kr
-linkedin: 주현-임-307139aa
-github: wow5468
-facebook: rick931022
+email: prestoxic@gmail.com
+phone: +82 10 3019 1204
+linkedin: howoong-jun-5a94aa106
+github: HowoongJun
+facebook: prestoxic
 
 # Tracker
 analytics: UA-103728399-1
